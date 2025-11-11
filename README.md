@@ -1,11 +1,11 @@
 # 💫About Me :
 # 👋 Hi, I'm THANH LICH NGUYEN
 
-🎓 I'm currently studying Information Technology  
+🎓 I'm currently studying a Bachelor of Information Technology course 
 💡 Passionate about learning programming and system design  
-🌱 Currently learning: Git, Java, Web Development, and Database Design  
-💻 Projects: Building a learning ecosystem website for students  
-🚀 Goal: Become a full-stack developer and help beginners learn IT effectively  
+🌱 My skills: Front-end Development and Basic Database Design  
+💻 Projects: Library management, Food Store.
+🚀 Goal: Become a full-stack developer and help beginners learn IT effectively via social media channels.  
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/guitaristVN/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@johnthanhlich) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JB-LUFE) 
